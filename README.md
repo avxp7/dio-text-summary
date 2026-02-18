@@ -49,7 +49,8 @@ Demonstrar a aplicação prática de modelos de IA Generativa no dia a dia, prov
 
 > **Nota:** Para rodar este projeto, você precisará de uma chave de API do Google AI Studio e instalar as dependências via pip: `pip install google-generativeai gTTS`.
 
-🛠️ Instalação
+## 🛠️ Instalação 
+
 Clone o repositório.
 Crie seu arquivo .env com sua chave da API do Gemini.
 Instale as dependências: pip install -r requirements.txt.
