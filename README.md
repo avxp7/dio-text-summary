@@ -51,9 +51,9 @@ Demonstrar a aplicação prática de modelos de IA Generativa no dia a dia, prov
 
 🛠️ Instalação
 Clone o repositório.
-
 Crie seu arquivo .env com sua chave da API do Gemini.
-
 Instale as dependências: pip install -r requirements.txt.
-Nota: Caso tenha erro ao instalar o PyAudio, instale as ferramentas de áudio do seu sistema operacional (como pipwin no Windows ou portaudio no
+Nota: Caso tenha erro ao instalar o PyAudio, instale as ferramentas de áudio do seu sistema operacional (como pipwin no Windows ou portaudio no Linux).
+
+
 ---
